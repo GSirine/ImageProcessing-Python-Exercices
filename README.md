@@ -1,10 +1,10 @@
 # ImageProcessing-Python-Exercices
 Practical exercises in digital image processing using Python (NumPy, OpenCV, Matplotlib) — basics, filtering, segmentation, histograms.
-## 📌 Description
+##  Description
 This repository contains a series of **digital image processing** exercises in Python, using libraries such as **NumPy**, **OpenCV**, and **Matplotlib**.  
 The exercises cover basics, filtering, segmentation, and image analysis.
 
-## 📂 Contents
+##  Contents
 - **TP1 - Image Processing Basics**
   - Reading and displaying images
   - Format conversion
@@ -19,8 +19,8 @@ The exercises cover basics, filtering, segmentation, and image analysis.
   - Contour-based segmentation
   - Mathematical morphology
 
-## 🛠️ Installation
-1. **Clone the repository**
+##  Installation
+1. *Clone the repository*
    ```bash
    git clone https://github.com/GSirine/ImageProcessing-Python-Exercices.git
    cd ImageProcessing-Python-Exercices
